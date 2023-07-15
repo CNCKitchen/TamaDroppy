@@ -11,7 +11,7 @@ Some of these links are affiliate links:
 - [M2.5 Heat Set Inserts](https://cnckitchen.store/de/products/gewindeeinsatz-threaded-insert-m2-5-standard-100-stk-pcs)
 - [M2.5 Screws](https://geni.us/zQFR7T)
 ## License
-Creative Commons Attribution Non Commercial Share Alike 4.0 International
+[Creative Commons Attribution Non Commercial Share Alike 4.0 International](https://github.com/CNCKitchen/TamaDroppy/blob/main/LICENSE)
 Completely free for any educational purpose!
 If you want to make a product out of it, please contact me.
 
