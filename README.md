@@ -13,5 +13,5 @@ Some of these links are affiliate links:
 ## License
 Creative Commons Attribution Non Commercial Share Alike 4.0 International
 Completely free for any educational purpose!
-If you want to make a product out of it, please contact me.
+If you want to make a product out of it, please [contact me](https://www.cnckitchen.com/impressum).
 
